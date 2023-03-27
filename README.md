@@ -37,9 +37,11 @@ I am a highly collaborative developer and enjoy working in agile teams. I am ski
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)  
-
+<!---
 ## Statistics
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimjo&show_icons=true&theme=cobalt)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimjo)--->
 <!---
 Ibrahimjo/Ibrahimjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
