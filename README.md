@@ -6,8 +6,8 @@ My expertise in Flutter includes a strong command of Dart programming language, 
 In addition, I have extensive experience working with Xamarin to develop cross-platform mobile applications for iOS and Android. I have a strong command of C# programming language and the .NET framework, as well as the Xamarin toolchain. I have developed several successful apps using Xamarin, ranging from small store management to big ecommerce apps.
 
 I am a highly collaborative developer and enjoy working in agile teams. I am skilled at team work, mentoring junior developers, and collaborating with cross-functional teams. I have a passion for staying up-to-date with the latest trends and technologies in the mobile app development space, and enjoy sharing my knowledge with others.
-
-### I'm working on private on-demand projects so you wont be able to see much on my github
+<!---
+### I'm working on private on-demand projects so you wont be able to see much on my github--->
 
 ## Social Links :link:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White)](https://www.linkedin.com/in/ibrahim-al-jork-0b705b181/)
